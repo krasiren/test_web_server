@@ -15,3 +15,4 @@ venv/
 
 #.env
 node_modules
+db.sqlite3
